@@ -1,4 +1,4 @@
-# 2D-Platformer
+# DashTrek
 
 ## Description
 This project is a video game made in Unity game engine using C-Sharp (C#).
